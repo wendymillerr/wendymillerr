@@ -2,8 +2,6 @@ Olá, sou Wendy Miller!
 
 👩🏻‍💻 Estudante de Tecnologia da Informação explorando minha jornada e aprendizados em tech
 
-📚 Estudante de Tecnologia da Informação
-
 🌱 Compartilhando minhas descobertas e projetos publicamente
 
 💻 Tech Stack
