@@ -1,4 +1,4 @@
-Olá, sou Wendy Miller!
+Olá, sou Wendy Miller!!
 
 👩🏻‍💻 Estudante de Tecnologia da Informação explorando minha jornada e aprendizados em tech
 
